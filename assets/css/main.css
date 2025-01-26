@@ -3060,6 +3060,10 @@ input, select, textarea {
 		font-family: 'Manrope Medium';
 	}
 	
+@font-face {
+	font-family: 'Gotham Book';
+	src: url(assets\webfonts\Gotham-Book.otf) format("opentype");
+}
 
 	
 	
