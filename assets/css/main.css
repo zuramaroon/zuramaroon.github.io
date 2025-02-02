@@ -71,7 +71,11 @@ input, select, textarea {
 	font-weight: 400;
 	font-style: normal;
   }
-
+.gotham-regular {
+	font-family: "Gotham", serif;
+	font-weight: 400;
+	font-style: normal;
+}
 .in-icon {
 	display: inline-block;
 	width: 20px;
@@ -3063,6 +3067,11 @@ input, select, textarea {
 @font-face {
 	font-family: 'Gotham Book';
 	src: url(assets\webfonts\Gotham-Book.otf) format("opentype");
+}
+
+@font-face {
+	font-family: 'Gotham';
+	src: url(assets\webfonts\Gotham.ttf) format("opentype");
 }
 
 	
