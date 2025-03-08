@@ -3063,16 +3063,6 @@ input, select, textarea {
 		box-sizing: border-box;
 		font-family: 'Manrope Medium';
 	}
-	
-@font-face {
-	font-family: 'Gotham Book';
-	src: url(assets\webfonts\Gotham-Book.otf) format("opentype");
-}
-
-@font-face {
-	font-family: 'Gotham';
-	src: url(assets\webfonts\Gotham.ttf) format("opentype");
-}
 
 	
 	
